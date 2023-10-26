@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactSpeach2Text/static/css/main.1b5726ac.css",
+    "main.js": "/ReactSpeach2Text/static/js/main.5afc5831.js",
+    "index.html": "/ReactSpeach2Text/index.html",
+    "main.1b5726ac.css.map": "/ReactSpeach2Text/static/css/main.1b5726ac.css.map",
+    "main.5afc5831.js.map": "/ReactSpeach2Text/static/js/main.5afc5831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5726ac.css",
+    "static/js/main.5afc5831.js"
+  ]
+}
